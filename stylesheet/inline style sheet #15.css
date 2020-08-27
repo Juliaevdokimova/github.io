@@ -1,0 +1,5 @@
+#rec205529285 .t-btn[data-btneffects-first],
+#rec205529285 .t-btn[data-btneffects-second],
+#rec205529285 .t-submit[data-btneffects-first],
+#rec205529285 .t-submit[data-btneffects-second] {	position: relative; overflow: hidden; -webkit-transform: translate3d(0,0,0); transform: translate3d(0,0,0);
+}

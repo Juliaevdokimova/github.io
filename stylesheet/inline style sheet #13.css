@@ -1,0 +1,32 @@
+#rec205529285 input::-webkit-input-placeholder {
+ color:#ffffff;
+ opacity: 0.5;
+}
+#rec205529285 input::-moz-placeholder {
+ color:#ffffff;
+ opacity: 0.5;
+}
+#rec205529285 input:-moz-placeholder {
+ color:#ffffff;
+ opacity: 0.5;
+}
+#rec205529285 input:-ms-input-placeholder {
+ color:#ffffff;
+ opacity: 0.5;
+}
+#rec205529285 textarea::-webkit-input-placeholder {
+ color:#ffffff;
+ opacity: 0.5;
+}
+#rec205529285 textarea::-moz-placeholder {
+ color:#ffffff;
+ opacity: 0.5;
+}
+#rec205529285 textarea:-moz-placeholder {
+ color:#ffffff;
+ opacity: 0.5;
+}
+#rec205529285 textarea:-ms-input-placeholder {
+ color:#ffffff;
+ opacity: 0.5;
+}

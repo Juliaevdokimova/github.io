@@ -1,0 +1,15 @@
+#rec204557500 .t-menu__link-item{ -webkit-transition: color 0.3s ease-in-out, opacity 0.3s ease-in-out; transition: color 0.3s ease-in-out, opacity 0.3s ease-in-out; position: relative;	}
+#rec204557500 .t-menu__link-item::after { content: ''; position: absolute; left: 0;	bottom: 20%;	opacity: 0;	width: 100%;	height: 100%;	border-bottom: px solid ; -webkit-box-shadow: inset 0px -px 0px 0px ; -moz-box-shadow: inset 0px -px 0px 0px ; box-shadow: inset 0px -px 0px 0px ; -webkit-transition: all 0.3s ease; transition: all 0.3s ease;
+}
+#rec204557500 .t-menu__link-item.t-active{ opacity:1 !important;}
+#rec204557500 .t-menu__link-item.t-active::after {
+opacity: 1;
+bottom: -0px;
+border-bottom: 0px solid #086c80;
+-webkit-box-shadow: inset 0px -1px 0px 0px #086c80;
+-moz-box-shadow: inset 0px -1px 0px 0px #086c80;
+box-shadow: inset 0px -1px 0px 0px #086c80;
+}
+@supports (overflow:-webkit-marquee) and (justify-content:inherit)
+{ #rec204557500 .t-menu__link-item, #rec204557500 .t-menu__link-item.t-active { opacity: 1 !important; }
+}

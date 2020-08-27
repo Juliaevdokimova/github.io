@@ -1,0 +1,12 @@
+@media screen and (max-width: 960px){
+#rec204557501 .t-cover, #rec204557501 .t-cover__carrier, #rec204557501 .t-cover__filter{ height: 500px !important;
+}
+}
+@media screen and (max-width: 640px){
+#rec204557501 .t-cover, #rec204557501 .t-cover__carrier, #rec204557501 .t-cover__filter{ height: 360px !important;
+}
+}
+@media screen and (max-width: 480px){
+#rec204557501 .t-cover, #rec204557501 .t-cover__carrier, #rec204557501 .t-cover__filter{ height: 240px !important;
+}
+} 
